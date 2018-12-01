@@ -1,0 +1,528 @@
+ producer 1 has produced items= 0
+
+ producer 1 has produced items= 1
+
+ producer 1 has produced items= 2
+
+ producer 1 has produced items= 3
+
+ producer 1 has produced items= 4
+
+ producer 1 has produced items= 5
+
+ producer 1 has produced items= 6
+
+ producer 1 has produced items= 7
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:7
+
+ consumer 1 has consumed items:6
+
+ consumer 1 has consumed items:5
+
+ consumer 1 has consumed items:4
+
+ consumer 1 has consumed items:3
+
+ consumer 1 has consumed items:2
+
+ consumer 1 has consumed items:1
+
+ consumer 1 has consumed items:0
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 8
+
+ producer 1 has produced items= 9
+
+ producer 1 has produced items= 10
+
+ producer 1 has produced items= 11
+
+ producer 1 has produced items= 12
+
+ producer 1 has produced items= 13
+
+ producer 1 has produced items= 14
+
+ producer 1 has produced items= 15
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:15
+
+ consumer 1 has consumed items:14
+
+ consumer 1 has consumed items:13
+
+ consumer 1 has consumed items:12
+
+ consumer 1 has consumed items:11
+
+ consumer 1 has consumed items:10
+
+ consumer 1 has consumed items:9
+
+ consumer 1 has consumed items:8
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 16
+
+ producer 1 has produced items= 17
+
+ producer 1 has produced items= 18
+
+ producer 1 has produced items= 19
+
+ producer 1 has produced items= 20
+
+ producer 1 has produced items= 21
+
+ producer 1 has produced items= 22
+
+ producer 1 has produced items= 23
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:23
+
+ consumer 1 has consumed items:22
+
+ consumer 1 has consumed items:21
+
+ consumer 1 has consumed items:20
+
+ consumer 1 has consumed items:19
+
+ consumer 1 has consumed items:18
+
+ consumer 1 has consumed items:17
+
+ consumer 1 has consumed items:16
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 24
+
+ producer 1 has produced items= 25
+
+ producer 1 has produced items= 26
+
+ producer 1 has produced items= 27
+
+ producer 1 has produced items= 28
+
+ producer 1 has produced items= 29
+
+ producer 1 has produced items= 30
+
+ producer 1 has produced items= 31
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:31
+
+ consumer 1 has consumed items:30
+
+ consumer 1 has consumed items:29
+
+ consumer 1 has consumed items:28
+
+ consumer 1 has consumed items:27
+
+ consumer 1 has consumed items:26
+
+ consumer 1 has consumed items:25
+
+ consumer 1 has consumed items:24
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 32
+
+ producer 1 has produced items= 33
+
+ producer 1 has produced items= 34
+
+ producer 1 has produced items= 35
+
+ producer 1 has produced items= 36
+
+ producer 1 has produced items= 37
+
+ producer 1 has produced items= 38
+
+ producer 1 has produced items= 39
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:39
+
+ consumer 1 has consumed items:38
+
+ consumer 1 has consumed items:37
+
+ consumer 1 has consumed items:36
+
+ consumer 1 has consumed items:35
+
+ consumer 1 has consumed items:34
+
+ consumer 1 has consumed items:33
+
+ consumer 1 has consumed items:32
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 40
+
+ producer 1 has produced items= 41
+
+ producer 1 has produced items= 42
+
+ producer 1 has produced items= 43
+
+ producer 1 has produced items= 44
+
+ producer 1 has produced items= 45
+
+ producer 1 has produced items= 46
+
+ producer 1 has produced items= 47
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:47
+
+ consumer 1 has consumed items:46
+
+ consumer 1 has consumed items:45
+
+ consumer 1 has consumed items:44
+
+ consumer 1 has consumed items:43
+
+ consumer 1 has consumed items:42
+
+ consumer 1 has consumed items:41
+
+ consumer 1 has consumed items:40
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 48
+
+ producer 1 has produced items= 49
+
+ producer 1 has produced items= 50
+
+ producer 1 has produced items= 51
+
+ producer 1 has produced items= 52
+
+ producer 1 has produced items= 53
+
+ producer 1 has produced items= 54
+
+ producer 1 has produced items= 55
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:55
+
+ consumer 1 has consumed items:54
+
+ consumer 1 has consumed items:53
+
+ consumer 1 has consumed items:52
+
+ consumer 1 has consumed items:51
+
+ consumer 1 has consumed items:50
+
+ consumer 1 has consumed items:49
+
+ consumer 1 has consumed items:48
+
+ buffer is empty wait until produces the items..
+ producer 1 has produced items= 56
+
+ producer 1 has produced items= 57
+
+ producer 1 has produced items= 58
+
+ producer 1 has produced items= 59
+
+ producer 1 has produced items= 60
+
+ producer 1 has produced items= 61
+
+ producer 1 has produced items= 62
+
+ producer 1 has produced items= 63
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 1 has consumed items:63
+
+ consumer 1 has consumed items:62
+
+ consumer 1 has consumed items:61
+
+ consumer 1 has consumed items:60
+
+ consumer 1 has consumed items:59
+
+ consumer 1 has consumed items:58
+
+ consumer 1 has consumed items:57
+
+ consumer 1 has consumed items:56
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 0
+
+ producer 2 has produced items= 1
+
+ producer 2 has produced items= 2
+
+ producer 2 has produced items= 3
+
+ producer 2 has produced items= 4
+
+ producer 2 has produced items= 5
+
+ producer 2 has produced items= 6
+
+ producer 2 has produced items= 7
+
+ buffer is full, wait until the consumer consumes items..
+ producer 2 has produced items= 8
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:8
+
+ consumer 2 has consumed items:6
+
+ consumer 2 has consumed items:5
+
+ consumer 2 has consumed items:4
+
+ consumer 2 has consumed items:3
+
+ consumer 2 has consumed items:2
+
+ consumer 2 has consumed items:1
+
+ consumer 2 has consumed items:0
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 9
+
+ producer 2 has produced items= 10
+
+ producer 2 has produced items= 11
+
+ producer 2 has produced items= 12
+
+ producer 2 has produced items= 13
+
+ producer 2 has produced items= 14
+
+ producer 2 has produced items= 15
+
+ producer 2 has produced items= 16
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:16
+
+ consumer 2 has consumed items:15
+
+ consumer 2 has consumed items:14
+
+ consumer 2 has consumed items:13
+
+ consumer 2 has consumed items:12
+
+ consumer 2 has consumed items:11
+
+ consumer 2 has consumed items:10
+
+ consumer 2 has consumed items:9
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 17
+
+ producer 2 has produced items= 18
+
+ producer 2 has produced items= 19
+
+ producer 2 has produced items= 20
+
+ producer 2 has produced items= 21
+
+ producer 2 has produced items= 22
+
+ producer 2 has produced items= 23
+
+ producer 2 has produced items= 24
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:24
+
+ consumer 2 has consumed items:23
+
+ consumer 2 has consumed items:22
+
+ consumer 2 has consumed items:21
+
+ consumer 2 has consumed items:20
+
+ consumer 2 has consumed items:19
+
+ consumer 2 has consumed items:18
+
+ consumer 2 has consumed items:17
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 25
+
+ producer 2 has produced items= 26
+
+ producer 2 has produced items= 27
+
+ producer 2 has produced items= 28
+
+ producer 2 has produced items= 29
+
+ producer 2 has produced items= 30
+
+ producer 2 has produced items= 31
+
+ producer 2 has produced items= 32
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:32
+
+ consumer 2 has consumed items:31
+
+ consumer 2 has consumed items:30
+
+ consumer 2 has consumed items:29
+
+ consumer 2 has consumed items:28
+
+ consumer 2 has consumed items:27
+
+ consumer 2 has consumed items:26
+
+ consumer 2 has consumed items:25
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 33
+
+ producer 2 has produced items= 34
+
+ producer 2 has produced items= 35
+
+ producer 2 has produced items= 36
+
+ producer 2 has produced items= 37
+
+ producer 2 has produced items= 38
+
+ producer 2 has produced items= 39
+
+ producer 2 has produced items= 40
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:40
+
+ consumer 2 has consumed items:39
+
+ consumer 2 has consumed items:38
+
+ consumer 2 has consumed items:37
+
+ consumer 2 has consumed items:36
+
+ consumer 2 has consumed items:35
+
+ consumer 2 has consumed items:34
+
+ consumer 2 has consumed items:33
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 41
+
+ producer 2 has produced items= 42
+
+ producer 2 has produced items= 43
+
+ producer 2 has produced items= 44
+
+ producer 2 has produced items= 45
+
+ producer 2 has produced items= 46
+
+ producer 2 has produced items= 47
+
+ producer 2 has produced items= 48
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:48
+
+ consumer 2 has consumed items:47
+
+ consumer 2 has consumed items:46
+
+ consumer 2 has consumed items:45
+
+ consumer 2 has consumed items:44
+
+ consumer 2 has consumed items:43
+
+ consumer 2 has consumed items:42
+
+ consumer 2 has consumed items:41
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 49
+
+ producer 2 has produced items= 50
+
+ producer 2 has produced items= 51
+
+ producer 2 has produced items= 52
+
+ producer 2 has produced items= 53
+
+ producer 2 has produced items= 54
+
+ producer 2 has produced items= 55
+
+ producer 2 has produced items= 56
+
+ buffer is full, wait until the consumer consumes items..
+ consumer 2 has consumed items:56
+
+ consumer 2 has consumed items:55
+
+ consumer 2 has consumed items:54
+
+ consumer 2 has consumed items:53
+
+ consumer 2 has consumed items:52
+
+ consumer 2 has consumed items:51
+
+ consumer 2 has consumed items:50
+
+ consumer 2 has consumed items:49
+
+ buffer is empty wait until produces the items..
+ producer 2 has produced items= 57
+
+ producer 2 has produced items= 58
+
+ producer 2 has produced items= 59
+
+ producer 2 has produced items= 60
+
+ producer 2 has produced items= 61
+
+ producer 2 has produced items= 62
+
+ producer 2 has produced items= 63
+
+ buffer is empty wait until produces the items..
